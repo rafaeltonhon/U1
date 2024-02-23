@@ -1,0 +1,6 @@
+16 ! number of sites
+1.20 ! beta
+10000 ! number of monte carlo sweeps
+1000 ! number of termalization updates
+0.25 ! delta for the metropolis
+8 8  ! size of the wilson loops
